@@ -3,7 +3,7 @@
 //
 // This program does basic math
 
-using System; 
+using System;
 
 public class Program 
 {
