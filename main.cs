@@ -13,6 +13,6 @@ public class Program
         Console.WriteLine("Area and perimeter of a rectangle with dimensions 5 cm and 3 cm");
         Console.WriteLine("Area = " + (5 * 3));
         Console.WriteLine("Perimeter = " + ((5 + 3) * 2));
-        Console.WriteLine("\nDone.");
+        Console.WriteLine("Done.");
     }
 }
