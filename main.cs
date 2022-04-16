@@ -8,7 +8,7 @@ using System;
 public class Program
 {
 
-    public static void Main(string[] args) 
+    public static void Main(string[] args)
     {
         Console.WriteLine("Area and perimeter of a rectangle with dimensions 5 cm and 3 cm");
         Console.WriteLine("Area = " + (5 * 3));
